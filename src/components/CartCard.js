@@ -15,3 +15,5 @@ export const CartCard = ({ product }) => {
     </div>
   );
 };
+
+
